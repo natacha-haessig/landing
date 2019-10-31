@@ -1,0 +1,16 @@
+.btn-pink{
+	background-color: #dd6892;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: 'Titillium Web', sans-serif;
+	text-decoration: none;
+	font-weight: 700px;
+	letter-spacing: 1px;
+	font-size: 18px;
+}
+
+.btn-pink:hover{
+	background-color: #ffc8c8;
+	color: white;
+}
